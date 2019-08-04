@@ -1,0 +1,44 @@
+
+S1: total data lines = 98 days
+S1: first data line  = 01/06/2009, 15944 people counted
+S1: last data line   = 08/09/2009, 16460 people counted
+
+S2: range spanned    = 100 days
+S2: coverage ratio   = 98.0%
+
+S3: 06/2009 30/30 days covered, average count =  15.5k
+S3: 07/2009 31/31 days covered, average count =  16.9k
+S3: 08/2009 29/31 days covered, average count =  17.3k
+S3: 09/2009  8/30 days covered, average count =  15.9k
+
+S4: group 0 data, 01/06/2009 to 02/07/2009, 32 data records
+S4: group 1 data, 03/07/2009 to 04/08/2009, 33 data records
+S4: group 2 data, 07/08/2009 to 08/09/2009, 33 data records
+
+S4: Sun, g0 = 12.4k |************
+S4: Sun, g1 = 13.2k |*************
+S4: Sun, g2 = 13.5k |*************
+
+S4: Mon, g0 = 14.8k |***************
+S4: Mon, g1 = 17.4k |*****************
+S4: Mon, g2 = 16.1k |****************
+
+S4: Tue, g0 = 15.0k |***************
+S4: Tue, g1 = 18.2k |******************
+S4: Tue, g2 = 16.9k |*****************
+
+S4: Wed, g0 = 15.7k |****************
+S4: Wed, g1 = 18.1k |******************
+S4: Wed, g2 = 18.0k |******************
+
+S4: Thu, g0 = 16.2k |****************
+S4: Thu, g1 = 18.5k |*******************
+S4: Thu, g2 = 18.5k |******************
+
+S4: Fri, g0 = 19.8k |********************
+S4: Fri, g1 = 19.8k |********************
+S4: Fri, g2 = 20.9k |*********************
+
+S4: Sat, g0 = 14.8k |***************
+S4: Sat, g1 = 14.5k |**************
+S4: Sat, g2 = 15.9k |****************

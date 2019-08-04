@@ -1,0 +1,135 @@
+
+S1: total data lines = 2879 days
+S1: first data line  = 01/06/2009, 24756 people counted
+S1: last data line   = 26/04/2017, 30916 people counted
+
+S2: range spanned    = 2887 days
+S2: coverage ratio   = 99.7%
+
+S3: 06/2009 30/30 days covered, average count =  17.6k
+S3: 07/2009 31/31 days covered, average count =  18.1k
+S3: 08/2009 31/31 days covered, average count =  17.4k
+S3: 09/2009 30/30 days covered, average count =  18.2k
+S3: 10/2009 31/31 days covered, average count =  17.8k
+S3: 11/2009 30/30 days covered, average count =  16.8k
+S3: 12/2009 31/31 days covered, average count =  15.2k
+S3: 01/2010 31/31 days covered, average count =  12.6k
+S3: 02/2010 28/28 days covered, average count =  18.5k
+S3: 03/2010 31/31 days covered, average count =  18.7k
+S3: 04/2010 30/30 days covered, average count =  16.2k
+S3: 05/2010 31/31 days covered, average count =  17.4k
+S3: 06/2010 30/30 days covered, average count =  17.4k
+S3: 07/2010 31/31 days covered, average count =  17.1k
+S3: 08/2010 31/31 days covered, average count =  18.0k
+S3: 09/2010 30/30 days covered, average count =  17.9k
+S3: 10/2010 31/31 days covered, average count =  17.5k
+S3: 11/2010 30/30 days covered, average count =  17.8k
+S3: 12/2010 31/31 days covered, average count =  15.1k
+S3: 01/2011 31/31 days covered, average count =  13.5k
+S3: 02/2011 28/28 days covered, average count =  18.8k
+S3: 03/2011 31/31 days covered, average count =  19.2k
+S3: 04/2011 30/30 days covered, average count =  15.8k
+S3: 05/2011 31/31 days covered, average count =  18.5k
+S3: 06/2011 30/30 days covered, average count =  17.6k
+S3: 07/2011 31/31 days covered, average count =  16.2k
+S3: 08/2011 31/31 days covered, average count =  18.9k
+S3: 09/2011 30/30 days covered, average count =  18.5k
+S3: 10/2011 31/31 days covered, average count =  17.5k
+S3: 11/2011 30/30 days covered, average count =  18.3k
+S3: 12/2011 31/31 days covered, average count =  14.5k
+S3: 01/2012 31/31 days covered, average count =  13.3k
+S3: 02/2012 29/29 days covered, average count =  19.5k
+S3: 03/2012 31/31 days covered, average count =  18.4k
+S3: 04/2012 30/30 days covered, average count =  15.7k
+S3: 05/2012 31/31 days covered, average count =  19.6k
+S3: 06/2012 30/30 days covered, average count =  16.8k
+S3: 07/2012 31/31 days covered, average count =  17.0k
+S3: 08/2012 29/31 days covered, average count =  19.8k
+S3: 09/2012 30/30 days covered, average count =  16.5k
+S3: 10/2012 31/31 days covered, average count =  18.7k
+S3: 11/2012 30/30 days covered, average count =  18.0k
+S3: 12/2012 31/31 days covered, average count =  13.6k
+S3: 01/2013 31/31 days covered, average count =  14.2k
+S3: 02/2013 28/28 days covered, average count =  18.8k
+S3: 03/2013 31/31 days covered, average count =  16.7k
+S3: 04/2013 30/30 days covered, average count =  17.3k
+S3: 05/2013 31/31 days covered, average count =  19.6k
+S3: 06/2013 30/30 days covered, average count =  16.5k
+S3: 07/2013 31/31 days covered, average count =  17.9k
+S3: 08/2013 31/31 days covered, average count =  18.4k
+S3: 09/2013 30/30 days covered, average count =  17.9k
+S3: 10/2013 30/31 days covered, average count =  19.1k
+S3: 11/2013 30/30 days covered, average count =  18.0k
+S3: 12/2013 31/31 days covered, average count =  14.5k
+S3: 01/2014 31/31 days covered, average count =  13.5k
+S3: 02/2014 28/28 days covered, average count =  19.6k
+S3: 03/2014 31/31 days covered, average count =  18.4k
+S3: 04/2014 30/30 days covered, average count =  17.2k
+S3: 05/2014 31/31 days covered, average count =  19.3k
+S3: 06/2014 30/30 days covered, average count =  17.7k
+S3: 07/2014 31/31 days covered, average count =  18.2k
+S3: 08/2014 31/31 days covered, average count =  18.2k
+S3: 09/2014 30/30 days covered, average count =  19.1k
+S3: 10/2014 30/31 days covered, average count =  20.3k
+S3: 11/2014 30/30 days covered, average count =  17.5k
+S3: 12/2014 31/31 days covered, average count =  15.8k
+S3: 01/2015 31/31 days covered, average count =  14.4k
+S3: 02/2015 28/28 days covered, average count =  19.6k
+S3: 03/2015 31/31 days covered, average count =  19.2k
+S3: 04/2015 30/30 days covered, average count =  18.2k
+S3: 05/2015 29/31 days covered, average count =  18.9k
+S3: 06/2015 30/30 days covered, average count =  18.9k
+S3: 07/2015 31/31 days covered, average count =  19.5k
+S3: 08/2015 31/31 days covered, average count =  18.8k
+S3: 09/2015 30/30 days covered, average count =  19.7k
+S3: 10/2015 30/31 days covered, average count =  19.6k
+S3: 11/2015 30/30 days covered, average count =  19.0k
+S3: 12/2015 31/31 days covered, average count =  16.4k
+S3: 01/2016 31/31 days covered, average count =  14.9k
+S3: 02/2016 29/29 days covered, average count =  21.4k
+S3: 03/2016 31/31 days covered, average count =  19.7k
+S3: 04/2016 30/30 days covered, average count =  20.6k
+S3: 05/2016 31/31 days covered, average count =  21.0k
+S3: 06/2016 30/30 days covered, average count =  20.1k
+S3: 07/2016 31/31 days covered, average count =  19.4k
+S3: 08/2016 31/31 days covered, average count =  21.7k
+S3: 09/2016 30/30 days covered, average count =  20.4k
+S3: 10/2016 30/31 days covered, average count =  20.1k
+S3: 11/2016 30/30 days covered, average count =  20.9k
+S3: 12/2016 31/31 days covered, average count =  16.7k
+S3: 01/2017 31/31 days covered, average count =  15.9k
+S3: 02/2017 28/28 days covered, average count =  22.0k
+S3: 03/2017 31/31 days covered, average count =  23.0k
+S3: 04/2017 26/30 days covered, average count =  18.5k
+
+S4: group 0 data, 01/06/2009 to 15/01/2012, 959 data records
+S4: group 1 data, 16/01/2012 to 04/09/2014, 960 data records
+S4: group 2 data, 05/09/2014 to 26/04/2017, 960 data records
+
+S4: Sun, g0 =  0.8k |*
+S4: Sun, g1 =  1.2k |*
+S4: Sun, g2 =  2.5k |**
+
+S4: Mon, g0 = 22.4k |**********************
+S4: Mon, g1 = 22.8k |***********************
+S4: Mon, g2 = 24.2k |************************
+
+S4: Tue, g0 = 23.9k |************************
+S4: Tue, g1 = 24.9k |*************************
+S4: Tue, g2 = 26.2k |**************************
+
+S4: Wed, g0 = 24.4k |************************
+S4: Wed, g1 = 24.8k |*************************
+S4: Wed, g2 = 26.7k |***************************
+
+S4: Thu, g0 = 24.5k |************************
+S4: Thu, g1 = 24.6k |*************************
+S4: Thu, g2 = 26.3k |**************************
+
+S4: Fri, g0 = 22.4k |**********************
+S4: Fri, g1 = 22.6k |***********************
+S4: Fri, g2 = 23.8k |************************
+
+S4: Sat, g0 =  1.1k |*
+S4: Sat, g1 =  1.4k |*
+S4: Sat, g2 =  3.3k |***
